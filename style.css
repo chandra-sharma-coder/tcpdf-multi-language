@@ -1,0 +1,10 @@
+@font-face{
+    src: url(font/AnmolLipi.ttf) format('truetype');
+    font-family: 'raavi';
+}
+
+.paragraph{
+    font-family: 'raavi';
+    font-size: 50px;
+    line-height: 62px;
+}
